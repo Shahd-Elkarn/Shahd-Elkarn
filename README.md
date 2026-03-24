@@ -95,7 +95,6 @@ public class ShahdElkarn : SoftwareEngineer
 * 📧 Email: [shahdelkarn536@gmail.com](mailto:shahdelkarn536@gmail.com)
 
 ---
-<div align="center">
 ## ⭐ Fun Fact
 
 ```csharp
@@ -109,7 +108,7 @@ while (alive) {
 
 
 ---
-</div>
+
 
 <div align="center">
 
