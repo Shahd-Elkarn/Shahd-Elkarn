@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋🏻 Hey there! I'm **Shahd Elkarn**
 
-### 💻 Backend Developer | .NET Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hey+there+!+I'm+Shahd+Elkarn+👋🏻;Building+Scalable+API+Systems;Backend+Developer+%7C+.NET+Specialist" />
 
@@ -93,11 +91,11 @@ public class ShahdElkarn : SoftwareEngineer
 
 💬 I'm always open to interesting conversations and collaboration opportunities!
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/shahd-hesham-elkarn/)
+* 💼 LinkedIn: [ShahdElkarn](https://www.linkedin.com/in/shahd-hesham-elkarn/)
 * 📧 Email: [shahdelkarn536@gmail.com](mailto:shahdelkarn536@gmail.com)
 
 ---
-
+<div align="center">
 ## ⭐ Fun Fact
 
 ```csharp
@@ -108,6 +106,7 @@ while (alive) {
     repeat();
 }
 ```
+</div>
 
 ---
 
