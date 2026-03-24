@@ -106,9 +106,10 @@ while (alive) {
     repeat();
 }
 ```
-</div>
+
 
 ---
+</div>
 
 <div align="center">
 
